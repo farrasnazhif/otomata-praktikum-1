@@ -1,3 +1,9 @@
+# Kelompok 12
+
+- Aminudin Wijaya 5025241242
+- Nabil Irawan 5025241231
+- Farras Nazhif Pratikno 5025241260
+
 # Penjelasan Program
 
 ## Token yang dipakai
